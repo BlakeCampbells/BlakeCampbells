@@ -1,3 +1,5 @@
+[![Braydon's GitHub Banner](./banner.jpg)](https://braydoncoyer.dev)
+
 # I'm Blake Campbell
 
 Senior Web Dev with a focus on front-end developer. VueJS/Nuxt/Rails are my preferred tools.
