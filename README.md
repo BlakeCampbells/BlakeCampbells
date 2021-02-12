@@ -1,8 +1,7 @@
 [![Blake's GitHub Banner](./blake_header.jpg)](https://blakecampbell.com)
 
-# I'm Blake Campbell
-
-Senior Web Dev with a focus on front-end developer. VueJS/Nuxt/Rails are my preferred tools.
+# Hey!
+I'm Blake a Senior Web Dev with a focus on front-end developer. VueJS/Nuxt/Rails are my preferred tools.
 <!--
 **BlakeCampbells/BlakeCampbells** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
