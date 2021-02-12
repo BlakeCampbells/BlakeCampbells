@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner](./banner.jpg)](https://braydoncoyer.dev)
+[![Blake's GitHub Banner](./banner.jpg)](https://blakecampbell.com)
 
 # I'm Blake Campbell
 
