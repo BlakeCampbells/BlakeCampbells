@@ -16,25 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![Profile views](https://komarev.com/ghpvc/?username=BlakeCampbells&color=green)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/blake-campbell/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/BlakeCampbellDev)
-
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-<a href="https://github.com/blakecampbells">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blakecampbells&theme=default&hide=html,css" />
-</a>
-
-<a href="https://github.com/blakecampbells">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=blakecampbells&theme=default&hide=stars,issues&show_icons=true&line_height=50&count_private=true" alt="Blake's GitHub Stats" />
-</a>
-
-<br>
-
-- Do these stats actually matter? Probably not, but it's fun.
 
 
 ### 🔨 Languages and Tools:
