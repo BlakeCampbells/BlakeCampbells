@@ -34,16 +34,18 @@ Here are some ideas to get you started:
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-### 💎Projects and Dev Stuffs:
+--- 
+
+# 💎Projects and Dev Stuffs:
 
 
-  <summary><b>📊 Github Stats</b></summary>
+##📊 Github Stats
 	
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BlakeCampbells&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlakeCampbells&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 ---
 
-  <summary><b>☄️ Github Streaks</b></summary>
+## ☄️ Github Streaks
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BlakeCampbells&theme=dark)](https://git.io/streak-stats)
 <!--
