@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 
 ### 🔨 Languages and Tools:
-  <p>
+<p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
@@ -46,24 +46,22 @@ Here are some ideas to get you started:
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-  <img alt="NuxtJs" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nuxt.js&logoColor=white" />
+  <img alt="NuxtJs" src="https://img.shields.io/badge/-Nuxt.js-000000?style=flat-square&logo=nuxt.js&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-
-  </p>
+</p>
 
 ### 💎Projects and Dev Stuffs:
 
-<details>	
+
   <summary><b>📊 Github Stats</b></summary>
 	
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BlakeCampbells&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlakeCampbells&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
 
-<details>	
+---
+
   <summary><b>☄️ Github Streaks</b></summary>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BlakeCampbells&hide_border=true" />
-</details>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BlakeCampbells&theme=dark)](https://git.io/streak-stats)
 <!--
 ## 📝 Latest Blog Posts
 ## 💼 Skills
