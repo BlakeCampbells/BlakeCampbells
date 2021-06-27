@@ -105,3 +105,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-Clubhouse-informational?style=flat&logo=Clubhouse&logoColor=white&color=4AB197)
 </details>
 -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manuca&theme=dark&ring=DD2727)](https://git.io/streak-stats)
