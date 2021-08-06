@@ -46,8 +46,6 @@ Here are some ideas to get you started:
 ---
 
 ## ☄️ Github Streaks
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=weshays)](https://git.io/streak-stats)
-
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BlakeCampbells&theme=dark)](https://git.io/streak-stats)
 <!--
