@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/blake-campbell/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/BlakeCampbellDev)
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manuca)](https://git.io/streak-stats)
-
 ### 🔨 Languages and Tools:
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
