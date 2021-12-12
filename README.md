@@ -1,22 +1,11 @@
 [![Blake's GitHub Banner](./blake_header.jpg)](https://blakecampbell.com)
 
 # Hey!
-I'm Blake a Senior Full Stack Engineeer, currently on Contract at Apple. Apple uses GitHub Enterprise and all my commits there go under my Apple profile.
+### I'm Blake a Senior Full Stack Engineer with a focus on Frontend. Currently on contract with Apple. VueJS Professional and NuxtJS Experimenter.
 
-<!--
-**BlakeCampbells/BlakeCampbells** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![Profile views](https://komarev.com/ghpvc/?username=BlakeCampbells&color=brightgreen)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/blake-campbell/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/BlakeCampbellDev)
@@ -47,6 +36,9 @@ Here are some ideas to get you started:
 ## ☄️ Github Streaks
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BlakeCampbells&theme=dark)](https://git.io/streak-stats)
+
+*ps: My commits for Apple are under GitHub Enterprise so they don't show up here even under private.*
+
 <!--
 ## 📝 Latest Blog Posts
 ## 💼 Skills
