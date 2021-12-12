@@ -1,7 +1,8 @@
 [![Blake's GitHub Banner](./blake_header.jpg)](https://blakecampbell.com)
 
 # Hey!
-I'm Blake a Senior Developer with a focus on the front-end. VueJS/Nuxt/Rails are my preferred tools.
+I'm Blake a Senior Full Stack Engineeer, currently on Contract at Apple. Apple uses GitHub Enterprise and all my commits there go under my Apple profile.
+
 <!--
 **BlakeCampbells/BlakeCampbells** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
