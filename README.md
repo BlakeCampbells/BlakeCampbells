@@ -1,7 +1,7 @@
 [![Blake's GitHub Banner](./blake_header.jpg)](https://blakecampbell.com)
 
 # Hey!
-### I'm Blake a Senior Full Stack Engineer with a focus on Frontend. Currently on contract with Apple. VueJS Professional and NuxtJS Experimenter.
+### I'm Blake a Senior Full Stack Engineer with a focus on Frontend. Currently on contract with Apple. VueJS Professional and NuxtJS Experimenter. JavaScript forever.
 
 ---
 
