@@ -27,17 +27,13 @@
 
 # 💎Projects and Dev Stuffs:
 
-## 📊 Github Stats
-	
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BlakeCampbells&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlakeCampbells&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-
 ---
 
 ## ☄️ Github Streaks
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BlakeCampbells&theme=dark)](https://git.io/streak-stats)
 
-*ps: My commits for Apple are under GitHub Enterprise so they don't show up here even under private.*
+*ps: My commits for work are under GitHub Enterprise so they don't show up here even under private.*
 
 <!--
 ## 📝 Latest Blog Posts
