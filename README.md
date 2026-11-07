@@ -1,94 +1,30 @@
-[![Blake's GitHub Banner](./blake_header.jpg)](https://blakecampbell.com)
+[![Blake Campbell — Senior Software Engineer](./linkedin-header.png)](https://blakecampbell.com/)
 
-# Hey!
-### I'm Blake a Senior Full Stack Engineer with a focus on Frontend. Currently on contract with Argonne National Laboratory. VueJS Professional and NuxtJS Experimenter. JavaScript forever. Ruby sometimes.
+# Hi, I'm Blake
 
----
+I'm a senior software engineer based in Pittsburgh with 10+ years building production software. I work across frontend development, backend services, testing, and delivery with React, Vue, TypeScript, Node.js, and Ruby on Rails.
 
+Currently on contract with **Argonne National Laboratory**, modernizing legacy applications. Previously, I built chatbot analytics and review tools at **Apple** and co-founded **BenefitMany**, where I led an eight-person remote engineering team.
 
-![Profile views](https://komarev.com/ghpvc/?username=BlakeCampbells&color=brightgreen)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/blake-campbell/)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/BlakeCampbellDev)
+[Portfolio](https://blakecampbell.com/) · [LinkedIn](https://www.linkedin.com/in/blake-campbell/) · [Work and case studies](https://blakecampbell.com/work/)
 
-### 🔨 Languages and Tools:
-<p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-styled_components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-  <img alt="NuxtJs" src="https://img.shields.io/badge/-Nuxt.js-000000?style=flat-square&logo=nuxt.js&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+## Selected experience
 
---- 
+- **[Argonne National Laboratory](https://blakecampbell.com/work/argonne-national-laboratory/)** — Modernize 5+ legacy applications with React, TypeScript, and Rails. Build shared components and Playwright end-to-end tests, with release pipelines requiring at least 80% test coverage per application.
+- **[Apple](https://blakecampbell.com/work/apple/)** — Built tools to explore and classify millions of chatbot conversations across 26 locales and seven languages. Worked with business and data science teams from design through delivery, including automated classification and human review workflows.
+- **[BenefitMany](https://blakecampbell.com/work/benefitmany/)** — Co-founded a software consultancy for small businesses and nonprofits. Led an eight-person remote team through requirements, planning, development, and delivery of internal tools and customer-facing applications.
 
-# 💎Projects and Dev Stuffs:
+## Selected projects
 
----
+- **[uses.tech](https://uses.tech/)** — Core maintainer since 2021 of an open-source developer directory with 1,000+ contributors. Review pull requests, handle issues, and keep entries current. [Source](https://github.com/wesbos/awesome-uses)
+- **[Award Went To](https://awardwentto.com/)** — Built interactive Academy Awards visualizations, historical timelines, prediction sheets, and Oscar bingo with Nuxt, TypeScript, and Cloudflare. [Case study](https://blakecampbell.com/work/awardwentto/)
+- **[SnapRemark](https://apps.apple.com/us/app/snapremark/id6738997529)** — Designed, built, and published a native iOS party game in Swift, taking it from an idea to the App Store. [Case study](https://blakecampbell.com/work/snapremark-ios-application/)
+- **[AI Plays Pokémon](https://aiplayspokemon.com/)** — Train and evaluate reinforcement learning agents for Pokémon Red and Crystal with Python, PyBoy, and recurrent PPO. Track verified gameplay milestones and evaluate checkpoints on held-out seeds. [Case study](https://blakecampbell.com/work/ai-plays-pokemon/)
 
-## ☄️ Github Streaks
+## Core stack
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BlakeCampbells&theme=dark)](https://git.io/streak-stats)
+- **Frontend:** TypeScript, JavaScript, React, Vue, Nuxt, HTML, CSS, Tailwind CSS
+- **Backend:** Ruby on Rails, Node.js
+- **Testing:** Playwright, Jest, RSpec
 
-*ps: My commits for work are under GitHub Enterprise so they don't show up here even under private.*
-
-<!--
-## 📝 Latest Blog Posts
-## 💼 Skills
-
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-GreenSock-informational?style=flat&logo=GreenSock&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-
-<details>
-<summary>More Skills</summary>
-<br>
-
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
-
-<br>
-
-![](https://img.shields.io/badge/Test-Jasmine-informational?style=flat&logo=Jasmine&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
-
-<br>
-
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Pivotal-informational?style=flat&logo=Pivotal-Tracker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Actions-informational?style=flat&logo=github-actions&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Clubhouse-informational?style=flat&logo=Clubhouse&logoColor=white&color=4AB197)
-</details>
--->
+For senior engineering opportunities, [connect with me on LinkedIn](https://www.linkedin.com/in/blake-campbell/).
